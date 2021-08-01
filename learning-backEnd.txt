@@ -3,4 +3,6 @@ BackEnd :
   - learning javascript 
     * modern javascript
     * framework
-  
+      + react 
+      + viu
+  - learning flask
