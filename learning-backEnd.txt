@@ -1,0 +1,6 @@
+BackEnd :
+  - learning django    
+  - learning javascript 
+    * modern javascript
+    * framework
+  
