@@ -8,3 +8,5 @@ BackEnd :
     * Syntax dasar PHP
     * Framework
       + Laravel
+      + viu
+  - learning flask
