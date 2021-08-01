@@ -1,4 +1,4 @@
-# My-Plan
+My-Plan
 ## Main
 - mastery bootstrap CSS framework
 - mastery javascript
