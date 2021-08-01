@@ -3,4 +3,9 @@ BackEnd :
   - learning javascript 
     * modern javascript
     * framework
-  
+      + React
+  - PHP
+    * Syntax dasar PHP
+    * Framework
+      + Laravel
+  - learning flask
