@@ -4,9 +4,3 @@ BackEnd :
     * modern javascript
     * framework
       + React
-  - PHP
-    * Syntax dasar PHP
-    * Framework
-      + Laravel
-      + viu
-      + codeigniter
